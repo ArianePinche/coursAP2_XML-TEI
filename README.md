@@ -34,7 +34,7 @@ BURNARD, Lou et BURGHART, Marjorie, *Qu’est-ce que la Text Encoding Initiative
 
 HAROLD, Elliotte Rusty, MEANS, W. Scott, ENSARGUET, Philippe [et al.], *XML en concentré*, Paris, O’Reilly, 2005.
 
-Palluault, Florent  « Informatiser des descriptions complexes : l’utilisation de l’EAD et de la TEI pour les manuscrits et les livres anciens en France », IFLA 2012 (Helsinki), [en ligne : http://conference.ifla.org/past/2012/212-palluault-fr.pdf. 
+PALLUAULT, Florent  « Informatiser des descriptions complexes : l’utilisation de l’EAD et de la TEI pour les manuscrits et les livres anciens en France », IFLA 2012 (Helsinki), [en ligne : http://conference.ifla.org/past/2012/212-palluault-fr.pdf. 
 
 
 ## Ressources numériques
