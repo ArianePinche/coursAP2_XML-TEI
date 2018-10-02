@@ -62,7 +62,7 @@ La communauté peut échanger et se rencontrer grâce à :
 
 TEI est un set de balises prédéfini et documenté dans les [TEIguidelines](http://www.tei-c.org/guidelines/) qui permet de procéder à une description « scientifique » et « sémantique » d’un texte. 
 
-Pour utiliser un set de balises TEI, il faut déclarer le nom de domaine TEI (name space) dans l'élément racine du document XML grâce à ce qu’on appelle une adresse URI qui pointe vers une description du set de données (= déclaration de nom de domaine).
+Pour utiliser un set de balises TEI, il faut déclarer le nom de domaine TEI (name space) dans l'élément racine du document XML grâce à ce qu’on appelle une adresse URI qui pointe vers une description du set de données.
 
 Exemple : `<TEI xmlns="http://www.tei-c.org/ns/1.0">`
 
