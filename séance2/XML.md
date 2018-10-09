@@ -44,7 +44,7 @@ On peut ajouter une propriété à un élément grâce à un attribut.
 ## Un peu d'Histoire...
 
 - SGML (1970), Standard Generalized Markup Language;
-	- HTML, HyperText Markup Language: affiche des données notamment sur le Web ;
+	- HTML, HyperText Markup Language: affiche des données notamment sur le Web;
 	- XML, eXtensible Markup Language: contient et structure des données textuelles.
 
 ---
@@ -66,8 +66,8 @@ Les éléments doivent tous strictement respecter le principe d'imbrication
 	
 	- À chaque balise de début doit correspondre une fin de balise ;
 	- Les éléments sont imbriqués;
-	- Les éléments ne doivent pas se recouvrir ;
-	- Il ne doit y avoir qu’un seul élément racine ;
+	- Les éléments ne doivent pas se recouvrir;
+	- Il ne doit y avoir qu’un seul élément racine;
 	- Un élément ne doit pas avoir deux attributs avec le même nom.
 
 Un encodage qui respecte ces grands principes du XML est dit __bien formé__.
