@@ -93,6 +93,7 @@ Ces dernières sont des balises et pas des éléments. Elles doivent donc être 
 
 Les instructions de traitement les plus courantes sont l'appel d'une feuille de style, d'un schéma et l'appel d'une version de XML. Ces appels doivent être placés avant l'élément racine.
 
+
 ---
 
 ## Mise en pratique
