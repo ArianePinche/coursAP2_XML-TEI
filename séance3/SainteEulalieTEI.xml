@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Séquence de sainte Eulalie</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Texte édité dans la cadre d'un exercice de XML-TEI à l'école nationale des
+               Chartes</p>
+         </publicationStmt>
+         <sourceDesc><ab/></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>880</date>
+            <country>Abbaye de Saint-Amant</country>
+            <lang xml:lang="fro"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Séquence de saint Eulalie</head>
+         <lg type="cantilene">
+            <l>Buona pulcella fut Eulalia.</l>
+            <l>Bel avret corps bellezour anima.</l>
+            <l>Voldrent la veintre li d[õ] inimi.</l>
+            <l>Voldrent la faire diavle servir.</l>
+            <l>Elle nont eskoltet les mals conselliers.</l>
+            <l>Quelle d[õ] raneiet chi maent sus en ciel.</l>
+            <l>Ne por or ned argent ne paramenz.</l>
+            <l>Por manatce regiel ne preiement.</l>
+            <l>Niule cose non la pouret omq[ue] pleier.</l>
+            <l>10La polle sempre n[on] amast lo d[õ] menestier.</l>
+            <l>E por[ ]o fut p[re]sentede maximiien.</l>
+            <l>Chi rex eret a cels dis soure pagiens.</l>
+            <l>Il[ ]li enortet dont lei nonq[ue] chielt.</l>
+            <l>Qued elle fuiet lo nom xp[ist]iien.</l>
+            <l>Ellent adunet lo suon element</l>
+            <l>Melz sostendreiet les empedementz.</l>
+            <l>Quelle p[er]desse sa virginitet.</l>
+            <l>Por[ ]os suret morte a grand honestet.</l>
+            <l>Enz enl fou lo getterent com arde tost.</l>
+            <l>Elle colpes n[on] avret por[ ]o nos coist.</l>
+            <l>A[ ]czo nos voldret concreidre li rex pagiens.</l>
+            <l>Ad une spede li roveret tolir lo chief.</l>
+            <l>La domnizelle celle kose n[on] contredist.</l>
+            <l>Volt lo seule lazsier si ruovet krist.</l>
+            <l>In figure de colomb volat a ciel.</l>
+            <l>Tuit oram que por[ ]nos degnet preier.</l>
+            <l>Qued avuisset de nos xr[istu]s mercit</l>
+            <l>Post la mort &amp; a[ ]lui nos laist venir.</l>
+            <l>Par souue clementia.</l>
+         </lg>
+      </body>
+   </text>
+</TEI>
