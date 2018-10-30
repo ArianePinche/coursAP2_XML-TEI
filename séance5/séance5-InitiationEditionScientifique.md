@@ -90,6 +90,7 @@ EAD est une DTD (un schéma d’utilisation) de XML.
 * 2000, encodage en XML EAD du catalogue général des manuscrits des bibliothèques publiques de France.
 * 2010, la DeMarch recommandation est publiée.
 	* Attention : : DeMArch est une règle de description indépendante du format informatique.
+	* [Guide des bonnes pratiques EAD](http://bonnespratiques-ead.net)
 * 2012, deux tiers des manuscrits et documents d’archives conservés par les bibliothèques françaises sont décrits en EAD (« BnF archives et manuscrits », Calames, le sous-domaine « Manuscrits » du Catalogue collectif de France CCFr).	
 
 ---
