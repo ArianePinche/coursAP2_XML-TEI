@@ -16,11 +16,19 @@
         <msDesc xml:id="A">
            
            <!-- identifier le manuscrit -->
-           <msIdentifier>
-              <country><!-- lieu de conservation --></country>
-              <settlement><!-- instance de conservation --></settlement>
-              <idno><!-- identifiant (côte) --></idno>
-           </msIdentifier>
+       
+              <msIdentifier>
+                 <country><!-- pays de conservation --></country>
+                 <settlement><!-- ville de conservation --></settlement>
+                     <repository><!--instituation chargée de la conservation du manuscrit--></repository>
+                 <idno>Lat 7920</idno>
+                 <!-- côte du manuscrit -->
+                 <altIdentifier>
+                    <!-- ancienne côte du manuscrit -->
+                    <idno/>
+                 </altIdentifier>
+              </msIdentifier>
+           
            <head>
               <title><!-- titre du manuscrit --></title>
               <origDate><!-- datation --></origDate>
